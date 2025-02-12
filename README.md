@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/alessandralp/">Alessandra La Posta</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alessandralp/">Alessandra La Posta</a>'s Cybersecurity Project Portfolio 🔐
 
 I'm transitioning from Operations & Customer Service into Cybersecurity, with a strong interest in GRC (Governance, Risk, and Compliance). I’ve completed the Google Cybersecurity Certificate and am preparing for the CompTIA Security+ exam. Here, I showcase projects focused on risk assessment, security policies, compliance frameworks, and incident response. Always learning, always improving!
 
