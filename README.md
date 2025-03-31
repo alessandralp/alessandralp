@@ -5,7 +5,7 @@ I'm transitioning from Operations & Customer Service into Cybersecurity, with a 
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation] (https://github.com/alessandralp/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/alessandralp/vulnerability-management-program)**
 <hr/>
 
 ## 🤳 Connect With Me
