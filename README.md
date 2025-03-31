@@ -2,6 +2,10 @@
 
 I'm transitioning from Operations & Customer Service into Cybersecurity, with a strong interest in GRC (Governance, Risk, and Compliance). I’ve completed the Google Cybersecurity Certificate and am preparing for the CompTIA Security+ exam. Here, I showcase projects focused on risk assessment, security policies, compliance frameworks, and incident response. Always learning, always improving!
 
+
+## Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation] (https://github.com/alessandralp/vulnerability-management-program)**
 <hr/>
 
 ## 🤳 Connect With Me
