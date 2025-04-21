@@ -11,10 +11,9 @@ I'm transitioning from Operations & Customer Service into Cybersecurity, with a 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://linkedin.com/in/alessandra-la-posta-2a2b34226/
-[instagram]: https://www.instagram.com/supportstreamco
+[linkedin]: https://www.linkedin.com/in/alessandra-la-posta/
+
 
 
 <!--
